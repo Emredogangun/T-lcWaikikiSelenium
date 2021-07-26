@@ -1,0 +1,17 @@
+Created by testinium on 24.07.2021
+
+This is a concept file with following syntax for each concept.
+# Çerezler pop-up ını kapat
+* "closeCookies" elementine tıkla
+*"1" saniye bekle
+
+# Ana sayfanın açıldığı kontrol edilir.
+* "Anasayfa" li ve "Anasayfa" isimli sayfa açık mı
+*"1" saniye bekle
+
+# Menüden Erkek seçeneğinin üzerinde durulur.
+*"1" saniye bekle
+
+# Açılan pencereden Gömlek Seçilir.
+* "manButton" elementi üzerinde dur "shirtButton" elementine tıkla
+*"1" saniye bekle

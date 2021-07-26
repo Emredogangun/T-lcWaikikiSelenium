@@ -1,0 +1,26 @@
+Created by testinium on 24.07.2021
+
+This is a concept file with following syntax for each concept.
+# Erkek Gömlek sayfası açıldığı kontrol edilir.
+* "Erkek Gömlek" li ve "Erkek Gömlek" isimli sayfa açık mı
+*"1" saniye bekle
+
+# Sırala Menüsünden “En yüksek fiyattan” seçenegi seçilir.
+* "dropDownMenu" elementi üzerinde dur "priceDown" elementine tıkla
+*"1" saniye bekle
+
+# Seçimin “En yüksek fiyattan” olduğu kontrol edilir.
+*"rawPrice" li listenin sıralamasını kontrol et
+*"1" saniye bekle
+
+# ilk 3 ürün favorilere eklenir.
+* "favProduct" li listeden <1> ürünü favorilere ekle
+*"3" saniye bekle
+* "favProduct" li listeden <2> ürünü favorilere ekle
+*"3" saniye bekle
+* "favProduct" li listeden <3> ürünü favorilere ekle
+*"3" saniye bekle
+
+# Sag üstteki favorilerim butonuna tıklanmalı.
+* "favButton" elementine tıkla
+*"1" saniye bekle

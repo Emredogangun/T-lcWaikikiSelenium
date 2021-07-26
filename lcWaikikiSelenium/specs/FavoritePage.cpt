@@ -1,0 +1,26 @@
+Created by testinium on 24.07.2021
+
+This is a concept file with following syntax for each concept.
+# Favorilerim sayfasının açıldığı dogrulanmalı.
+*"Favorilerim" li ve "Favorilerim" isimli sayfa açık mı
+*"1" saniye bekle
+
+# Favori olarak seçilen 3 ürünün orada oldugu kontrol edilmeli.
+*"sizeProduct" li listede <3> eleman var mı?
+*"1" saniye bekle
+
+# Tümünü seç butonuna tıklanmalı.
+* "selectAll" elementine tıkla
+*"1" saniye bekle
+
+# Tümünün seçildigi kontrol edilmeli.
+*"checkAllProducts" li listede <3> eleman var mı?
+*"1" saniye bekle
+
+# Seçilenleri sil butonuna tıklanmalı.
+* "removeAllButton" elementine tıkla
+*"1" saniye bekle
+
+#”Favori Ürününüz Yok” metni sayfada gözlemlenmeli.
+*"favText" li elementin içinde Favori Ürününüz Yok yazıyor mu?
+*"1" saniye bekle
