@@ -1,13 +1,5 @@
 # T-lcWaikikiSelenium
 
-- Proje Java programlama dilinde yazılmalıdır.
-- Yazılacak senaryo içinSelenium ve Gauge kullanılmalıdır.
-- Assertionskullanaraksenaryonun doğru çalıştığı kontrol edilmelidir.
-- Log kullanımı
-- Projenizde Page object model kurgusuna uygun yazılmalı
-- OOP prensiplerinin uygulanması
-- Projenizi tamamladıktan sonra zip olarak paylaşınız
-- 
 # lcwaikiki Favori Ürün Senaryosu
 
 - https://www.lcwaikiki.com/tr-TR/TR sitesi açılır.
